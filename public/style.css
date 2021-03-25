@@ -21,5 +21,5 @@ table {
 
   table, th, td {
     background-color: #4CAF50;
-    /* table-layout: fixed; */
+    table-layout: fixed;
   }
